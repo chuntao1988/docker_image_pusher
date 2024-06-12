@@ -1,1 +1,3 @@
 iyuucn/iyuuplus-dev
+iyuucn/iyuuplus
+linuxserver/qbittorrent
