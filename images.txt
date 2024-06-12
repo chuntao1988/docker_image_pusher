@@ -1,1 +1,1 @@
-docker pull iyuucn/iyuuplus-dev
+iyuucn/iyuuplus-dev
