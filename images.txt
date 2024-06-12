@@ -5,3 +5,8 @@ linuxserver/transmission
 easychen/cookiecloud
 jxxghp/moviepilot
 stainless403/mdcx-builtin-gui-base
+haishanh/yacd
+dreamacro/clash
+cloudnas/clouddrive2-unstable
+cloudnas/clouddrive2
+funcman/115pc
