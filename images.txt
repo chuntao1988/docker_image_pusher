@@ -1,3 +1,7 @@
 iyuucn/iyuuplus-dev
 iyuucn/iyuuplus
 linuxserver/qbittorrent
+linuxserver/transmission
+easychen/cookiecloud
+jxxghp/moviepilot
+stainless403/mdcx-builtin-gui-base
