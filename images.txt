@@ -10,3 +10,4 @@ dreamacro/clash
 cloudnas/clouddrive2-unstable
 cloudnas/clouddrive2
 funcman/115pc
+cooderl/wewe-rss-sqlite:latest
